@@ -32,7 +32,8 @@ async def on_message(message):
 
 @bot.command()
 async def cara(ctx):
-    await ctx.send(f"🗣️ O Gueigas já falou **cara** {contador_cara} vezes 😂")
+    await ctx.send(f"🗣️ O Gueigas já falou **cara** {contador_cara} vezes ")
 
 
 bot.run(TOKEN)
+
