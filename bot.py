@@ -2,8 +2,8 @@ import discord
 from discord.ext import commands
 import re
 
-TOKEN = "MTQ2Njk1MjIwMjIyNzY3OTU1Ng.Gsb7Jq.oZN2IGGdOigpBso6sTTB6wDJq6BDI91CEfwt5U"
-ID_GUEIGAS = 1466952202227679556  
+TOKEN = "DIscord"
+ID_GUEIGAS = "ID do bot" 
 
 intents = discord.Intents.default()
 intents.message_content = True
